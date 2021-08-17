@@ -1,1 +1,0 @@
-# ML smart industrial devlopment
