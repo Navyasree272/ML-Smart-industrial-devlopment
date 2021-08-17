@@ -1,2 +1,1 @@
-# ML
-# smart industrial devlopment
+# ML smart industrial devlopment
